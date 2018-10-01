@@ -145,7 +145,7 @@ export default {
                 collection: "directus_settings",
                 field: key,
                 group: null,
-                hidden_input: false,
+                hidden_detail: false,
                 hidden_list: false,
                 id: null,
                 interface: "text-input",

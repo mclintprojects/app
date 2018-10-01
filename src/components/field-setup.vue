@@ -87,7 +87,7 @@
             <label class="toggle"><v-toggle v-model="required" /> {{ $t("required") }} </label>
             <label class="toggle"><v-toggle v-model="readonly" /> {{ $t("readonly") }} </label>
             <label class="toggle"><v-toggle v-model="unique" /> {{ $t("unique") }}</label>
-            <label class="toggle"><v-toggle v-model="hidden_input" /> {{ $t("hidden_input") }}</label>
+            <label class="toggle"><v-toggle v-model="hidden_detail" /> {{ $t("hidden_detail") }}</label>
             <label class="toggle"><v-toggle v-model="hidden_list" />{{ $t("hidden_list") }}</label>
           </div>
         </details>
@@ -303,7 +303,7 @@ export default {
       required: false,
       unique: false,
       note: null,
-      hidden_input: false,
+      hidden_detail: false,
       hidden_list: false,
       length: null,
       default_value: null,
@@ -689,7 +689,7 @@ export default {
         required: this.required,
         unique: this.unique,
         note: this.note,
-        hidden_input: this.hidden_input,
+        hidden_detail: this.hidden_detail,
         hidden_list: this.hidden_list,
         length: this.length,
         validation: this.validation

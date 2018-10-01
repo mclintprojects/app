@@ -159,7 +159,7 @@ export default {
                 default_value: null,
                 field: "id",
                 group: null,
-                hidden_input: true,
+                hidden_detail: true,
                 hidden_list: false,
                 interface: "primary-key",
                 length: "10",

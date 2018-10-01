@@ -225,7 +225,7 @@ export default {
   greater_than: "Greater than",
   help_and_docs: "Help & Docs",
   keep_editing: "Keep editing",
-  hidden_input: "Hidden on Detail",
+  hidden_detail: "Hidden on Detail",
   hidden_list: "Hidden on Browse",
   host: "Host",
   in_list: "One of these",

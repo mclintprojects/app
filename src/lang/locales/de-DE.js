@@ -151,7 +151,7 @@ export default {
   greater_than: "Größer als",
   help_and_docs: "Hilfe & Doku",
   keep_editing: "Weiter bearbeiten",
-  hidden_input: "In Detailansicht verstecken",
+  hidden_detail: "In Detailansicht verstecken",
   hidden_list: "In Listenansicht verstecken",
   host: "Host",
   in_list: "Eines von diesen",
