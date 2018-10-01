@@ -160,7 +160,7 @@ export default {
                 field: "id",
                 group: null,
                 hidden_detail: true,
-                hidden_list: false,
+                hidden_browse: false,
                 interface: "primary-key",
                 length: "10",
                 locked: 0,

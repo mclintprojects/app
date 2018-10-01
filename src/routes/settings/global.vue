@@ -146,7 +146,7 @@ export default {
                 field: key,
                 group: null,
                 hidden_detail: false,
-                hidden_list: false,
+                hidden_browse: false,
                 id: null,
                 interface: "text-input",
                 locked: true,

@@ -226,7 +226,7 @@ export default {
   help_and_docs: "Help & Docs",
   keep_editing: "Keep editing",
   hidden_detail: "Hidden on Detail",
-  hidden_list: "Hidden on Browse",
+  hidden_browse: "Hidden on Browse",
   host: "Host",
   in_list: "One of these",
   initial_schema: "Choose an Initial Schema",

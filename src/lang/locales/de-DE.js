@@ -152,7 +152,7 @@ export default {
   help_and_docs: "Hilfe & Doku",
   keep_editing: "Weiter bearbeiten",
   hidden_detail: "In Detailansicht verstecken",
-  hidden_list: "In Listenansicht verstecken",
+  hidden_browse: "In Listenansicht verstecken",
   host: "Host",
   in_list: "Eines von diesen",
   initial_schema: "Initiales Schema wählen",
