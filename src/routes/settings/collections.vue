@@ -175,7 +175,7 @@ export default {
                 type: "integer",
                 unique: false,
                 validation: null,
-                view_width: 4
+                width: 4
               }
             }
           });

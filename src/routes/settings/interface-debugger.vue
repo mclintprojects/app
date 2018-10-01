@@ -288,7 +288,7 @@ export default {
           translation: null,
           type: "VARCHAR",
           validation: null,
-          view_width: 4
+          width: 4
         },
         director: {
           collection: "movies",
@@ -314,7 +314,7 @@ export default {
           translation: null,
           type: "VARCHAR",
           validation: null,
-          view_width: 4
+          width: 4
         }
       },
       customValues: {

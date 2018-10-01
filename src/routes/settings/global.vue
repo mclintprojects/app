@@ -159,7 +159,7 @@ export default {
                 translation: null,
                 type: "VARCHAR",
                 validation: null,
-                view_width: 4
+                width: 4
               }
           )
         };
